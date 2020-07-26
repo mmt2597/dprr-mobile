@@ -1,0 +1,393 @@
+
+[{
+    "Id": "5",
+    "Diseases": "C",
+    "Disease_Info": "cnscscjsocjs"
+}, {
+    "Id": "6",
+    "Diseases": "",
+    "Disease_Info": ""
+}]
+
+
+[{
+    "ID": "1",
+    "Province": "Ilocos Norte",
+    "Province_Info": "+63 77 772 1211",
+    "Region": "Region1"
+}, {
+    "ID": "2",
+    "Province": "La Union",
+    "Province_Info": "+63 72 242 5550",
+    "Region": "Region1"
+}, {
+    "ID": "3",
+    "Province": "Ilocos Sur",
+    "Province_Info": "+63 77 722 2740",
+    "Region": "Region1"
+}, {
+    "ID": "4",
+    "Province": "Pangasinan",
+    "Province_Info": "+63 75 542 2368",
+    "Region": "Region1"
+}, {
+    "ID": "5",
+    "Province": "Batanes",
+    "Province_Info": "The Batanes island group is the smallest province in the Philippines in terms of population and land area. The capital of Batanes, Basco is 280 kilometers north of Apari, Cagayan (the tip of main island of Luzon) while it is only 190 kilometers south of Taiwan. Batanes lies in the vast waters of the Pacific ocean where the Pacific meets China sea. An area that for generations is almost isolated from the rest of the Philippines. Batanes consist of 10 tiny islands and islets namely: Batan, Sabtang, Itbayat, Mavudis, Siayan, Diogo, North Island and Y'ami. Only the first three islands are inhabited.<br>\r\nBatanes lies in a typhoon path. Typically the typhoons comes during the months of August, September throught November. However, since the winds can pick up speed at any time, typhoons can occur at any month.\r\n",
+    "Region": "Region2"
+}, {
+    "ID": "6",
+    "Province": "Cagayan",
+    "Province_Info": "123-34-4434",
+    "Region": "Region2"
+}, {
+    "ID": "7",
+    "Province": "Isabela",
+    "Province_Info": "(+6378) 323-2038",
+    "Region": "Region2"
+}, {
+    "ID": "8",
+    "Province": "Nueva Vizcaya",
+    "Province_Info": "+63 78 392 2288",
+    "Region": "Region2"
+}, {
+    "ID": "9",
+    "Province": "Quirino",
+    "Province_Info": "+63 78 692 5088",
+    "Region": "Region2"
+}, {
+    "ID": "10",
+    "Province": "Aurora",
+    "Province_Info": "303.739.7000",
+    "Region": "Region3"
+}, {
+    "ID": "11",
+    "Province": "Bataan",
+    "Province_Info": "+63 47 237 4789",
+    "Region": "Region3"
+}, {
+    "ID": "12",
+    "Province": "Bulacan",
+    "Province_Info": "+63 44 791 1604",
+    "Region": "Region3"
+}, {
+    "ID": "13",
+    "Province": "Nueva Ecija",
+    "Province_Info": "+63 44 958 1775",
+    "Region": "Region3"
+}, {
+    "ID": "14",
+    "Province": "Pampanga",
+    "Province_Info": "+63 45 961 1726 ",
+    "Region": "Region3"
+}, {
+    "ID": "15",
+    "Province": "Tarlac",
+    "Province_Info": "+63 45 982  1234 ",
+    "Region": "Region3"
+}, {
+    "ID": "16",
+    "Province": "Zambales",
+    "Province_Info": " +63 47 811 3228",
+    "Region": "Region3"
+}, {
+    "ID": "17",
+    "Province": "Batangas",
+    "Province_Info": "+63 43 723 2760",
+    "Region": "Region4"
+}, {
+    "ID": "18",
+    "Province": "Cavite",
+    "Province_Info": "+63 46 419 0252",
+    "Region": "Region4"
+}, {
+    "ID": "19",
+    "Province": "Laguna",
+    "Province_Info": "(049) 545 7887",
+    "Region": "Region4"
+}, {
+    "ID": "20",
+    "Province": "Quezon",
+    "Province_Info": "+63 42 710 3088",
+    "Region": "Region4"
+}, {
+    "ID": "21",
+    "Province": "Rizal",
+    "Province_Info": "620 2400",
+    "Region": "Region4"
+}, {
+    "ID": "22",
+    "Province": "Marinduque",
+    "Province_Info": "+63 42 332 1002",
+    "Region": "Region4-B"
+}, {
+    "ID": "23",
+    "Province": "Occidental Mindoro",
+    "Province_Info": "Occidental Mindoro info",
+    "Region": "Region4-B"
+}, {
+    "ID": "24",
+    "Province": "Oriental Mindoro",
+    "Province_Info": "+63 43 286 7118",
+    "Region": "Region4-B"
+}, {
+    "ID": "25",
+    "Province": "Palawan",
+    "Province_Info": "+63 48 123 4567",
+    "Region": "Region4-B"
+}, {
+    "ID": "26",
+    "Province": "Romblon",
+    "Province_Info": "0999 889 1499",
+    "Region": "Region4-B"
+}, {
+    "ID": "27",
+    "Province": "Albay",
+    "Province_Info": "+63 52 481 2555",
+    "Region": "Region5"
+}, {
+    "ID": "28",
+    "Province": "Camarines Norte",
+    "Province_Info": "(054) 721 4304",
+    "Region": "Region5"
+}, {
+    "ID": "29",
+    "Province": "Camarines Sur",
+    "Province_Info": "+63 54 477 3159",
+    "Region": "Region5"
+}, {
+    "ID": "30",
+    "Province": "Catanduanes",
+    "Province_Info": "+63 52  811 3225",
+    "Region": "Region5"
+}, {
+    "ID": "31",
+    "Province": "Masbate",
+    "Province_Info": "+63 56 333 5608",
+    "Region": "Region5"
+}, {
+    "ID": "32",
+    "Province": "Aklan",
+    "Province_Info": "Aklan info",
+    "Region": "Region6"
+}, {
+    "ID": "33",
+    "Province": "Antique",
+    "Province_Info": "Antique info",
+    "Region": "Region6"
+}, {
+    "ID": "34",
+    "Province": "Capiz",
+    "Province_Info": "+63 36 621 0032",
+    "Region": "Region6"
+}, {
+    "ID": "35",
+    "Province": "Guimaras",
+    "Province_Info": "+63 33 237 1111",
+    "Region": "Region6"
+}, {
+    "ID": "36",
+    "Province": "Iloilo",
+    "Province_Info": "+63 33 333 3533",
+    "Region": "Region6"
+}, {
+    "ID": "37",
+    "Province": "Bohol",
+    "Province_Info": "+63 38 411 2022",
+    "Region": "Region7"
+}, {
+    "ID": "38",
+    "Province": "Cebu",
+    "Province_Info": "+63 32 233 4375",
+    "Region": "Region7"
+}, {
+    "ID": "39",
+    "Province": "Siquijor",
+    "Province_Info": "Siquijor info",
+    "Region": "Region7"
+}, {
+    "ID": "40",
+    "Province": "Biliran",
+    "Province_Info": "(053) 500 9021\/ 500 9344",
+    "Region": "Region8"
+}, {
+    "ID": "41",
+    "Province": "Eastern Samar",
+    "Province_Info": "Eastern Samar info",
+    "Region": "Region8"
+}, {
+    "ID": "42",
+    "Province": "Leyte",
+    "Province_Info": "(+63) 53 523 9925",
+    "Region": "Region8"
+}, {
+    "ID": "43",
+    "Province": "Northern Samar",
+    "Province_Info": "055 500 9408 ",
+    "Region": "Region8"
+}, {
+    "ID": "44",
+    "Province": "Southern Leyte",
+    "Province_Info": "(6353) 381 4546",
+    "Region": "Region8"
+}, {
+    "ID": "45",
+    "Province": "Zamboanga Del Norte",
+    "Province_Info": "Zamboanga Del Norte info",
+    "Region": "Region9"
+}, {
+    "ID": "46",
+    "Province": "Zamboanga Del Sur",
+    "Province_Info": "Zamboanga Del Sur info",
+    "Region": "Region9"
+}, {
+    "ID": "47",
+    "Province": "Zamboanga Sibugay",
+    "Province_Info": "Zamboanga Sibugay",
+    "Region": "Region9"
+}, {
+    "ID": "48",
+    "Province": "Bukidnon",
+    "Province_Info": "Bukidnon info",
+    "Region": "Region10"
+}, {
+    "ID": "49",
+    "Province": "Camiguin",
+    "Province_Info": "Camiguin info",
+    "Region": "Region10"
+}, {
+    "ID": "50",
+    "Province": "Lanao Del Norte",
+    "Province_Info": "+63 63 382 8313",
+    "Region": "Region10"
+}, {
+    "ID": "51",
+    "Province": "Misamis Occidental",
+    "Province_Info": "+63 8853 10649",
+    "Region": "Region10"
+}, {
+    "ID": "52",
+    "Province": "Misamis Oriental",
+    "Province_Info": "+63 88 857 2254",
+    "Region": "Region10"
+}, {
+    "ID": "53",
+    "Province": "Compostela Valley",
+    "Province_Info": "Compostela Valley info",
+    "Region": "Region11"
+}, {
+    "ID": "54",
+    "Province": "Davao Del Norte",
+    "Province_Info": "+63 84 217 2171",
+    "Region": "Region11"
+}, {
+    "ID": "55",
+    "Province": "Davao Del Sur",
+    "Province_Info": "+63 82 553 6784",
+    "Region": "Region11"
+}, {
+    "ID": "56",
+    "Province": "Davao Occidental",
+    "Province_Info": "(082) 296 0160 to 64",
+    "Region": "Region11"
+}, {
+    "ID": "57",
+    "Province": "Davao Oriental",
+    "Province_Info": "Davao Oriental info",
+    "Region": "Region11"
+}, {
+    "ID": "58",
+    "Province": "North Cotabato",
+    "Province_Info": "North Cotabato info",
+    "Region": "Region12"
+}, {
+    "ID": "59",
+    "Province": "Sarangani",
+    "Province_Info": "+63 83 508 2167",
+    "Region": "Region12"
+}, {
+    "ID": "60",
+    "Province": "South Cotabato",
+    "Province_Info": "+63 83 228 2620",
+    "Region": "Region12"
+}, {
+    "ID": "61",
+    "Province": "Sultan Kudarat",
+    "Province_Info": "+63 64 201 3023",
+    "Region": "Region12"
+}, {
+    "ID": "62",
+    "Province": "Abra",
+    "Province_Info": "(074) 752 \u2013 7857",
+    "Region": "CAR"
+}, {
+    "ID": "63",
+    "Province": "Apayao",
+    "Province_Info": "+63 77 932 6495",
+    "Region": "CAR"
+}, {
+    "ID": "64",
+    "Province": "Benguet",
+    "Province_Info": "+63 74 442 2601",
+    "Region": "CAR"
+}, {
+    "ID": "65",
+    "Province": "Ifugao",
+    "Province_Info": "+63 74 382 2129",
+    "Region": "CAR"
+}, {
+    "ID": "66",
+    "Province": "Kalinga",
+    "Province_Info": "+63 (09) 476 6128",
+    "Region": "CAR"
+}, {
+    "ID": "67",
+    "Province": "Agusan Del Norte",
+    "Province_Info": "(02) 772 7600",
+    "Region": "Caraga"
+}, {
+    "ID": "68",
+    "Province": "Agusan Del Sur",
+    "Province_Info": "+63 85 343 7369",
+    "Region": "Caraga"
+}, {
+    "ID": "69",
+    "Province": "Dinagat Islands",
+    "Province_Info": "Dinagat Islands info",
+    "Region": "Caraga"
+}, {
+    "ID": "70",
+    "Province": "Surigao Del Norte",
+    "Province_Info": "Surigao Del Norte info",
+    "Region": "Caraga"
+}, {
+    "ID": "71",
+    "Province": "Surigao Del Sur",
+    "Province_Info": "Surigao Del Sur info",
+    "Region": "Caraga"
+}, {
+    "ID": "72",
+    "Province": "Basilan",
+    "Province_Info": "Basilan info",
+    "Region": "ARMM"
+}, {
+    "ID": "73",
+    "Province": "Lanao Del Sur",
+    "Province_Info": "Lanao Del Sur info",
+    "Region": "ARMM"
+}, {
+    "ID": "74",
+    "Province": "Maguindanao",
+    "Province_Info": "Maguindanao",
+    "Region": "ARMM"
+}, {
+    "ID": "75",
+    "Province": "Sulu",
+    "Province_Info": "Sulu info",
+    "Region": "ARMM"
+}, {
+    "ID": "76",
+    "Province": "Tawi-Tawi",
+    "Province_Info": "Tawi-Tawi info",
+    "Region": "ARMM"
+}]
